@@ -1,0 +1,34 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+#container{
+    height:1000px;
+    width:100%;
+}
+#bar{
+    display:flex;
+    height:30px;
+    width:150px;
+    border:2px solid black;
+    border-radius:50px;
+    margin:auto;
+}
+#toggle_btn_left{
+    height:inherit;
+    width:30px;
+    background-color:black;
+    border-radius:30px;
+   
+}
+#toggle_btn_right{
+    height:inherit;
+    width:30px;
+    background-color:white;
+    border-radius:30px;
+    margin-left:90px;
+    
+}
+h1{
+    text-align:center;
+}
